@@ -2228,7 +2228,7 @@ SELECT * FROM aircrafts_tmp;
 ---
 
 Задание выполняется на основе презентации 10 "Полнотекстовый поиск"
-и главы 12 документации на [Постгрес](https://postgrespro.ru/docs/postgresql/12/textsearch)
+и главы 12 документации на [PostgreSQL](https://postgrespro.ru/docs/postgresql/12/textsearch)
 
 ### Задание
 
